@@ -1,0 +1,9 @@
+Package: truehybridx.homeartworkbeta
+Name: HomeArtwork (BETA)
+Depends: mobilesubstrate, preferenceloader
+Version: 2.1.0
+Architecture: iphoneos-arm
+Description: Works on iOS 7! Replaces home screen background with currently playing music artwork.
+Maintainer: Brandon Etheredge
+Author: Brandon Etheredge
+Section: Tweaks
